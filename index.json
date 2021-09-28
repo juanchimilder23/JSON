@@ -11,5 +11,9 @@
         "img/prod2_3.jpg",
         "img/prod2_4.jpg",
         "img/prod2_5.jpg"
+    ],
+    "relatedProducts": [
+        1,
+        3
     ]
 }
